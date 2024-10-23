@@ -9,14 +9,14 @@
  */
 {
   "current": {
-    "color_primary": "#747474",
+    "color_primary": "#39ff14",
     "color_secondary": "#bbb",
-    "color_borders": "#e5e5e5",
-    "color_body_bg": "#fff",
-    "color_body_text": "#333333",
-    "color_footer_bg": "#00ffff",
-    "color_footer_text": "#636363",
-    "color_footer_social_link": "#bbbbbb",
+    "color_borders": "#ff4500",
+    "color_body_bg": "#000000",
+    "color_body_text": "#ffffff",
+    "color_footer_bg": "#000000",
+    "color_footer_text": "#ffffff",
+    "color_footer_social_link": "#00ffff",
     "logo_use_image": false,
     "favicon_enable": false,
     "footer_social_enable": true,
